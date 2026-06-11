@@ -1,0 +1,8 @@
+img {
+  max-width: 100%;      /* 不超过父容器宽度 */
+  width: 300px;         /* 固定宽度，可按需修改 */
+  height: auto;         /* 高度自适应 */
+  display: block;
+  margin: 1rem auto;    /* 居中并保留上下边距 */
+  border-radius: 12px;  /* 保持原设计风格 */
+}
