@@ -6,7 +6,7 @@
     "date": "2023-12",
     "title": "普通话水平测试 二级甲等证书",
     "description": "语言从来不是天赋，而是一遍遍矫正、一遍遍重复的耐心。",
-    "detailFile": "card/math-modeling.html"
+    "detailFile": "math-modeling.html"
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@
     "date": "2023-12",
     "title": "我与全国大学英语四级考试（CET4）",
     "description": "那些早起背单词的清晨、听听力听到耳朵疼的夜晚，都化成了成绩单上一个踏实的数字。更重要的是，我学会了如何拆解目标、持续执行，这种能力比四级证书本身更珍贵。",
-    "detailFile": "card/erhai-lstm.html"
+    "detailFile": "erhai-lstm.html"
   },
   {
     "id": 3,
@@ -22,7 +22,7 @@
     "date": "2025-06",
     "title": "朋辈团体辅导培训师 · 聘书",
     "description": "要永远保持倾听的耐心、不带评判的接纳，以及愿意伸出手的勇气。",
-    "detailFile": "card/excellent-leader.html"
+    "detailFile": "excellent-leader.html"
   },
   {
     "id": 4,
@@ -30,7 +30,7 @@
     "date": "2025-03",
     "title": "优秀宿舍长 · 昆明学院文明宿舍",
     "description": "责任感不是挂在嘴边的词，而是每一次主动拿起扫把、每一次为室友带饭、每一次深夜谈心时，心里那份“我们一起变得更好”的念头。",
-    "detailFile": "card/python-cert.html"
+    "detailFile": "python-cert.html"
   },
   {
     "id": 5,
@@ -38,7 +38,7 @@
     "date": "2024-09",
     "title": "昆明市'急救知识进校园'活动志愿服务项目",
     "description": "作为大学生，能用课余时间为校园安全添一块砖，这份成就感比任何证书都珍贵。我也更加理解了“奉献、友爱、互助、进步”的志愿精神，未来会继续参与这类有意义的活动。",
-    "detailFile": "card/internet-plus.html"
+    "detailFile": "internet-plus.html"
   },
   {
     "id": 6,
@@ -46,7 +46,7 @@
     "date": "2025-04",
     "title": "心理情景剧《网络的漩涡》一等奖",
     "description": "这次经历也让我更敢站在人前表达，更懂倾听他人的内心——这些软技能，和数据能力一样，会陪我走很远。",
-    "detailFile": "card/intangible-heritage.html"
+    "detailFile": "intangible-heritage.html"
   }
   ],
   "photos": [
